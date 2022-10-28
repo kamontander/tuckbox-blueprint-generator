@@ -38,8 +38,8 @@ document.addEventListener( 'DOMContentLoaded', function() {
 //  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
   favicon.animate([
-    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVQ4EWNkYGD4D8RkAyaydUI1jhrAwMCCHIj//xMXIYyMjHBttAlEBQUFBkFBQbgtIDZIDBcAuRuMgV4AAwEBARQ+SB4kBgMw9SAa5BniPA5UiA3QJgyw2YRLbBi4AADqNSiBnQQ3BAAAAABJRU5ErkJggg==",
-    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAVklEQVQ4EWP8DwQMFAAmCvSCtY4awMDAghyIjIyMyFycbOSIo00gPnjwgOH9+/dwF4DYIDFsAMULMAX8/PwMAgICMC4KGy4IZTCOpkQG2kQjekjj4wMAE6oWgm3dkXAAAAAASUVORK5CYII="
+    "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48Y2lyY2xlIGN4PSIxMjgiIGN5PSIxMjgiIHI9IjEyOCIvPjwvc3ZnPg",
+    "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48ZGVmcz48c3R5bGU+LmF7ZmlsbDojZmZmO308L3N0eWxlPjwvZGVmcz48Y2lyY2xlIGNsYXNzPSJhIiBjeD0iMTI4IiBjeT0iMTI4IiByPSIxMjgiLz48L3N2Zz4="
   ], 500);
 
 //  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄

@@ -21,7 +21,7 @@
     var loopTimeout = null;
     var changeFavicon = function(iconURL) {
         var newLink = doc.createElement("link");
-        newLink.type = "image/x-icon";
+        newLink.type = "image/svg+xml";
         newLink.rel = "icon";
         newLink.href = iconURL;
         removeExistingFavicons();
