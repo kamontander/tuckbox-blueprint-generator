@@ -1,0 +1,28 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  margin: 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  color: #000;
+}
+
+#canvas {
+  float: left;
+  width: 1000px;
+  height: 500px;
+  margin: 0 1rem;
+  font-family: 'Stardos Stencil', cursive;
+}
+
+@media print {
+  .tp-dfwv {
+    display: none !important;
+  }
+}
+/*# sourceMappingURL=style.css.map */

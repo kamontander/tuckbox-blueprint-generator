@@ -1,0 +1,34 @@
+// @import "normalize";
+@import "breakpoints";
+@import "mixins";
+@import "functions";
+@import "variables";
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  color: $color-black;
+}
+
+#canvas {
+  float: left;
+  // background-color: $color-subtle-bg;
+  width: 1000px;
+  height: 500px;
+  margin: 0 1rem;
+  font-family: 'Stardos Stencil', cursive;
+}
+
+@media print {
+
+  .tp-dfwv {
+    display: none !important;
+  }
+}
